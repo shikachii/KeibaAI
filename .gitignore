@@ -1,0 +1,6 @@
+# ディレクトリごと葬り去る
+node_modules/
+
+# 生成物のみ排除
+raceUrls/
+html/
